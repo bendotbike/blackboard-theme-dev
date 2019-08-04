@@ -25,3 +25,12 @@ hexo clean
 hexo generate
 hexo serve
 ```
+
+## Site config
+(the following items from the site's config file are used by this theme and should be set up)
+- title
+- url
+- root
+- permalink
+- date_format
+- theme
