@@ -1,0 +1,22 @@
+<div class="intro">
+    <span class="intro__title">
+        <%= page.title %>
+    </span>
+    <span class="intro__subtitle">
+        <%= page.subtitle %>
+    </span>
+</div>
+
+<div class="post-tags">
+    <% if (page.tags  && page.tags.length) { %>
+        <span>Tags: </span>
+        <%- list_tags(page.tags, {
+            show_count: false,
+            class: "post-tag",
+            style: "none",
+            seperator: ","
+        }) %>
+    <% } %>
+</div>
+
+<%- page.content %>

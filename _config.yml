@@ -1,0 +1,13 @@
+# <meta name="theme-color" content="this">
+meta_theme_color:
+
+# path to favicon
+favicon: ""
+
+# page title
+title: ""
+
+# path to highlight.js theme
+# http://jmblog.github.io/color-themes-for-highlightjs
+# put theme.css in /source/ & the value below will just be "theme.css"
+hljs_theme: ""
