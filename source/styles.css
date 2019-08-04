@@ -90,6 +90,12 @@ body {
     background-color: var(--accent-color);
 }
 
+/* date */
+.intro__date {
+    display: block;
+    font-size: 110%;
+}
+
 /* 
 *   highlight.js styling 
 */
