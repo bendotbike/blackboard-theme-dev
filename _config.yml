@@ -6,4 +6,4 @@ favicon: ""
 
 # path to highlight.js theme
 # http://jmblog.github.io/color-themes-for-highlightjs
-hljs_theme: "tomorrow-night.css"
+hljs_theme: ""
