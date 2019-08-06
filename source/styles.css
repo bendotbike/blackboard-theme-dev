@@ -44,7 +44,7 @@ body {
     padding: 4px;
     border-radius: 4px;
     font-size: 200%;
-    text-decoration: none;
+    text-decoration: none; 
     color: var(--accent-color);
 }
 
@@ -59,11 +59,12 @@ body {
 }
 
 /* 
-    Page content 
+    1 content 
 */
 
 .page-content {
     line-height: 1.4;
+    word-wrap: break-word;
 }
 
 /* Intro */
