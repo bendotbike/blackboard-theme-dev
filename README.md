@@ -6,8 +6,6 @@ Hexo theme designed for use with my site
 This theme is designed to only reside in a ```/blog/``` directory in my site. There are no ```page``` layouts or anything in this theme.
 This is a rough conversion of a pure html/css/js theme designed for my site for use for blogging with Hexo.
 
-@todo: clean theme up and make more usable with normal site
-
 ## Installation
 1.
 ```
@@ -34,3 +32,10 @@ hexo serve
 - permalink
 - date_format
 - theme
+
+
+## To do
+- clean up theme
+- make 'page' layout
+- integrate Google analytics
+- tweaks accent colors
